@@ -1,0 +1,86 @@
+[
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "currency": "Indian Rupee (INR)",
+    "population_millions": 1428,
+    "continent": "Asia"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "currency": "US Dollar (USD)",
+    "population_millions": 335,
+    "continent": "North America"
+  },
+  {
+    "name": "United Kingdom",
+    "capital": "London",
+    "currency": "Pound Sterling (GBP)",
+    "population_millions": 68,
+    "continent": "Europe"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "currency": "Japanese Yen (JPY)",
+    "population_millions": 124,
+    "continent": "Asia"
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "currency": "Euro (EUR)",
+    "population_millions": 84,
+    "continent": "Europe"
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "currency": "Euro (EUR)",
+    "population_millions": 68,
+    "continent": "Europe"
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "currency": "Australian Dollar (AUD)",
+    "population_millions": 26,
+    "continent": "Oceania"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasilia",
+    "currency": "Brazilian Real (BRL)",
+    "population_millions": 216,
+    "continent": "South America"
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "currency": "Renminbi (CNY)",
+    "population_millions": 1412,
+    "continent": "Asia"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "currency": "Canadian Dollar (CAD)",
+    "population_millions": 39,
+    "continent": "North America"
+  },
+  {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "currency": "UAE Dirham (AED)",
+    "population_millions": 10,
+    "continent": "Asia"
+  },
+  {
+    "name": "Singapore",
+    "capital": "Singapore",
+    "currency": "Singapore Dollar (SGD)",
+    "population_millions": 6,
+    "continent": "Asia"
+  }
+]
