@@ -4,6 +4,8 @@ from langchain_openai import ChatOpenAI    # Imports the OpenAI-compatible chat 
 
 load_dotenv()          # load the variables from the .env file
 
+
+
 llm = ChatOpenAI(
     model=os.getenv("OPENAI_MODEL"), 
     temperature=0)   
